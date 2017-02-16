@@ -1,6 +1,0 @@
-#include <iostream>
-
-itis not ccfile
-
-
-#1 vol.2 second draft
